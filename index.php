@@ -1,3 +1,0 @@
-<?php
-print "WELCOME TO KOMLAN WEBPAGE"
-?>
